@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Branco">#FFF</color>
+    <color name="Preto">#000</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Azul_Mar">#0CC7B6</color>
+    <color name="Azeitona">#CBDAA3</color>
+    <color name="Mostarda">	#FEC12D</color>
+    <color name="Argila">#E46B4E</color>
+    <color name="Arvore">#98693B</color>
+</resources>
